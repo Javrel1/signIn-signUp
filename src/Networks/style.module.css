@@ -1,0 +1,18 @@
+.container{
+    @apply flex justify-center
+}
+.networks{
+    @apply flex w-[180px] justify-between mt-[15px]
+}
+.network{
+    @apply w-[50px] h-[50px] bg-gray-300 flex justify-center items-center rounded-full cursor-pointer
+}
+.facebook{
+    @apply w-[35px] h-[35px] rounded-full
+}
+.google{
+    @apply w-[35px] h-[35px]
+}
+.apple{
+    @apply w-[26px] h-[30px]
+}

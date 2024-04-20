@@ -1,0 +1,12 @@
+.container{
+    @apply flex justify-center
+}
+.info{
+    @apply flex flex-col
+}
+.first{
+    @apply font-[Poppins] text-[45px] font-bold
+}
+.second{
+    @apply flex font-[Poppins] justify-center
+}

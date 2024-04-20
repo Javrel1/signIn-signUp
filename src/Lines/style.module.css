@@ -1,0 +1,9 @@
+.container{
+    @apply flex justify-center mt-[15px]
+}
+.lines{
+    @apply flex justify-between items-center w-[450px] font-[Poppins] text-[15px]
+}
+.line{
+    @apply w-[200px] h-[1px] bg-gray-300
+}

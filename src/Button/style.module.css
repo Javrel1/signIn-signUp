@@ -1,0 +1,12 @@
+.container{
+    @apply flex justify-center mt-[20px]
+}
+.button{
+    @apply flex justify-center
+}
+button{
+    @apply w-[200px] h-[50px] bg-blue-400 rounded-full font-[Poppins] text-white
+}
+button:hover{
+    @apply bg-blue-300 duration-75
+}

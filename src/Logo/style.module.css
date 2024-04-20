@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Oswald:wght@300&family=Poppins:wght@300&display=swap');
+
+.logo{
+    @apply font-[Poppins] text-[20px] p-[40px]
+}
